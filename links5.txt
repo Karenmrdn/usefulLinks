@@ -1,0 +1,10 @@
+https://stackoverflow.com/questions/8639383/how-do-i-center-an-svg-in-a-div
+https://material.io/design/foundation-overview
+https://material-ui.com/components/container/
+https://www.udemy.com/course/complete-react-developer-zero-to-mastery/
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/#flexbox-properties             !!!!!!!!
+redux-persist:
+https://www.youtube.com/watch?v=Fb-bDigImpw&t=3s
+https://redux-toolkit.js.org/usage/usage-guide
+https://github.com/reduxjs/redux-toolkit/issues/121
+

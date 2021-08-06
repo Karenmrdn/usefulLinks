@@ -1,0 +1,4 @@
+https://stackoverflow.com/questions/46853278/create-immutable-object-in-javascript/49624827
+https://www.google.com/search?q=higher+order+functions+js&ei=JhfwYIKsNKCP9u8PuN2I6AI&oq=higher+order+functions+js&gs_lcp=Cgdnd3Mtd2l6EAMyAggAMgIIADIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjoHCAAQRxCwAzoHCAAQsAMQQzoECAAQQ0oECEEYAFCCDViCEGDFEmgBcAJ4AIABcogBjwOSAQMyLjKYAQCgAQGqAQdnd3Mtd2l6yAEKwAEB&sclient=gws-wiz&ved=0ahUKEwiC15Lq9-TxAhWgh_0HHbguAi0Q4dUDCA4&uact=5
+https://javascript.info/map-set
+https://learn.javascript.ru/localstorage

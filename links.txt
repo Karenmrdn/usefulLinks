@@ -1,0 +1,8 @@
+https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/JSON/stringify
+https://trello.com/b/YTTPkuyn/karen-muradian
+https://www.udemy.com/course/javascript-bible/learn/lecture/12515724#questions
+https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Operators/Operator_Precedence
+https://learn.javascript.ru/scope-new-function
+https://dev.to/abdulazizcode/scope-lexical-environment-4pdd
+https://www.microfocus.com/documentation/silk-test/200/en/silktestworkbench-help-en/SILKTEST-21EEFF3F-DIFFERENCEBETWEENTEXTCONTENTSINNERTEXTINNERHTML-REF.html
+https://learn.javascript.ru/modifying-document
